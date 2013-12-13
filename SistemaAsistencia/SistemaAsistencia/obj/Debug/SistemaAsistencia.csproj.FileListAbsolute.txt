@@ -1,0 +1,8 @@
+C:\Users\Alex\Desktop\BIOMETRICO\SistemaAsistencia\SistemaAsistencia\bin\Debug\SistemaAsistencia.exe
+C:\Users\Alex\Desktop\BIOMETRICO\SistemaAsistencia\SistemaAsistencia\bin\Debug\SistemaAsistencia.pdb
+C:\Users\Alex\Desktop\BIOMETRICO\SistemaAsistencia\SistemaAsistencia\obj\Debug\SistemaAsistencia.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\BIOMETRICO\SistemaAsistencia\SistemaAsistencia\obj\Debug\SistemaAsistencia.Form1.resources
+C:\Users\Alex\Desktop\BIOMETRICO\SistemaAsistencia\SistemaAsistencia\obj\Debug\SistemaAsistencia.Properties.Resources.resources
+C:\Users\Alex\Desktop\BIOMETRICO\SistemaAsistencia\SistemaAsistencia\obj\Debug\SistemaAsistencia.csproj.GenerateResource.Cache
+C:\Users\Alex\Desktop\BIOMETRICO\SistemaAsistencia\SistemaAsistencia\obj\Debug\SistemaAsistencia.exe
+C:\Users\Alex\Desktop\BIOMETRICO\SistemaAsistencia\SistemaAsistencia\obj\Debug\SistemaAsistencia.pdb

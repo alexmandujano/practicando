@@ -1,0 +1,5 @@
+C:\Users\Alex\Desktop\BIOMETRICO\SistemaAsistencia\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Alex\Desktop\BIOMETRICO\SistemaAsistencia\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Alex\Desktop\BIOMETRICO\SistemaAsistencia\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\BIOMETRICO\SistemaAsistencia\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Alex\Desktop\BIOMETRICO\SistemaAsistencia\CapaDatos\obj\Debug\CapaDatos.pdb
